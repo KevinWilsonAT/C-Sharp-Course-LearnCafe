@@ -13,4 +13,4 @@
 
 ### Linguagens do repositório:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/--_?style=for-the-badge&label=C%23&labelColor=%23178600&color=%2300000000">
+<img src="https://img.shields.io/badge/C%23-178600?style=for-the-badge">
